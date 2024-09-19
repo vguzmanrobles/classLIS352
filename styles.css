@@ -1,26 +1,56 @@
 h1{
-    color:blue;
-    letter-spacing:-3px;
-    font-family:verdana;
-    font-size:40px;
-    text-align:center;
-  }
-  
-  p{
-    font-size:25px;
-    background-color:red;
-    border:solid;
-    border-width:3px;
-    border-color:green;
-  }
-  header{
-    background-color:yellow;
-  }
-  
-  p img{
-    width:60%;
-    height:auto;
-    margin:10px;
-    border:solid;
-    border-color:white;
-  }
+  color:blue;
+  letter-spacing:-3px;
+  font-family:verdana;
+  font-size:40px;
+  text-align:center;
+}
+
+p{
+  font-size:25px;
+  border:solid;
+  border-width:3px;
+  border-color:black;
+}
+header{
+  background-color:yellow;
+}
+
+p img{
+  width:60%;
+  height:auto;
+  margin:10px;
+  border:solid;
+  border-color:white;
+}
+h3{
+text-align:center;
+}
+center{
+align:center;
+}
+figcaption{
+text-align:center;
+}
+nau ul{
+background-color:cyan;
+padding:0px;
+list-style:none;
+width:200px;
+border:1px solid;
+
+
+
+}
+nau ul li{
+border-bottom:1px solid;
+padding:5px;
+
+}
+nau ul li:last-child{
+border-bottom:none;
+}
+nau ul li a{
+color:white;
+text-decoration:none;
+}
