@@ -1,5 +1,5 @@
 h1{
-  color:blue;
+  
   letter-spacing:-3px;
   font-family:verdana;
   font-size:40px;
@@ -13,7 +13,7 @@ p{
   border-color:black;
 }
 header{
-  background-color:yellow;
+  background-color:rgb(222, 205, 191);
 }
 
 p img{
@@ -53,4 +53,14 @@ border-bottom:none;
 nau ul li a{
 color:black;
 text-decoration:none;
+}
+.practice{
+  background-color:blue;
+}
+
+#main{
+  color:rgb(0, 0, 0);
+}
+#second{
+  background-color:rgb(245, 245, 245);
 }
