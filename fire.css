@@ -1,0 +1,43 @@
+header{
+    background-color:grey;
+     text-align:left;
+   
+    display:flex;
+  }
+  
+  header img{
+  
+  }
+  .left{
+    text-align:right;
+    
+  }
+  
+  body {
+      font-family: Arial, sans-serif;
+  }
+  
+  .horizontal-menu {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: grey;
+  }
+  
+  .horizontal-menu li {
+      float: left;
+  }
+  
+  .horizontal-menu li a {
+      display: block;
+      color: black    ;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  
+  .horizontal-menu li a:hover {
+      background-color: white;
+  }
+  
