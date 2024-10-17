@@ -4,13 +4,12 @@ header{
    
     display:flex;
   }
-  li{
-    color:red;
-  }
+ 
+.blue{
+  color:rgb(196, 196, 226);
+}
 
-  .blue{
-    color:blue;
-  }
+
 
   .left{
     text-align:right;
