@@ -4,10 +4,14 @@ header{
    
     display:flex;
   }
-  
-  header img{
-  
+  li{
+    color:red;
   }
+
+  .blue{
+    color:blue;
+  }
+
   .left{
     text-align:right;
     
