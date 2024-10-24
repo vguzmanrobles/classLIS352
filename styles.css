@@ -22,7 +22,7 @@ img{
 }
 
 p img{
-  width:60%;
+  width:80%;
   height:auto;
   margin:10px;
   border:solid;
@@ -49,7 +49,7 @@ display: flex;
 
 @media all and (min-width: 376px){
   nau ul{
-  displey:flex;
+  display:flex;
   justify-content: center;
   gap: 30px;
   }
