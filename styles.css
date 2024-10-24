@@ -44,9 +44,14 @@ padding:0px;
 list-style:none;
 width:200px;
 border:1px solid;
+}
 
-
-
+@media all and (min-width: 376px){
+  nau ul{
+  displey:flex;
+  justify-content: center;
+  gap: 30px;
+  }
 }
 nau ul li{
 border-bottom:1px solid;
