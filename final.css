@@ -1,0 +1,20 @@
+nau ul li{
+    border-bottom:1px solid;
+    padding:5px;
+    
+    }
+    nau ul li{
+    border-bottom:none;
+    }
+    nau ul li a{
+    color:black;
+    text-decoration:none;
+    }
+    nau ul{
+    
+    padding:0px;
+    list-style:none;
+    width:300px;
+    border:1px solid;
+    display: flex;
+    }
