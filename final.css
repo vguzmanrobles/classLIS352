@@ -1,6 +1,6 @@
 nau ul li{
     border-bottom:1px solid;
-    padding:5px;
+    padding:15px;
     
     }
     nau ul li{
@@ -14,7 +14,26 @@ nau ul li{
     
     padding:0px;
     list-style:none;
-    width:300px;
+    width:500px;
     border:1px solid;
     display: flex;
+    margin:auto;
+    }
+    
+      article{
+            text-align: center;
+            background-color: #cff9f7;
+        }
+    main{
+      border:2px solid;
+      padding:10px;
+      width:400px;
+      margin:auto;
+    }
+    h2{
+      font-color:#3e2d4f;
+      font-size:30px;
+    }
+    p{
+      font-size:20px;
     }
